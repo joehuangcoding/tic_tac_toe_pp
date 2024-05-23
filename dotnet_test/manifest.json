@@ -1,4 +1,7 @@
 {
   "name": "dotnet_addon",
   "url": "https://joehuangcoding.github.io/tic_tac_toe_pp/dotnet_test/dotnet_test.zip"
+  "filePaths": [
+    "dotnet_test.txt"
+  ]
 }
