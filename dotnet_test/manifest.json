@@ -1,4 +1,4 @@
 {
-  name: "dotnet_addon",
-  url: "https://joehuangcoding.github.io/tic_tac_toe_pp/dotnet_test/test.dll"
+  "name": "dotnet_addon",
+  "url": "https://joehuangcoding.github.io/tic_tac_toe_pp/dotnet_test/test.dll"
 }
